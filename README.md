@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href="https://github.com/chandum9astdominic-cmyk" title="🐱 Meow! Welcome to Chandu's GitHub!"><img src="https://raw.githubusercontent.com/chandum9astdominic-cmyk/chandum9astdominic-cmyk/main/assets/cat.svg" width="42" alt="Cat logo"/></a>
+
 # 👋 Hey, I'm Chandu
 
 ### `CSE Student` • `Full-Stack Learner` • `Problem Solver`
