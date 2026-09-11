@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/chandum9astdominic-cmyk" title="🐱 Meow! Welcome to Chandu's GitHub!"><img src="https://raw.githubusercontent.com/chandum9astdominic-cmyk/chandum9astdominic-cmyk/main/assets/cat.svg?v=2" width="38" alt="🐱 Cat"/></a>
+<a href="https://github.com/chandum9astdominic-cmyk" title="🕷️ Spider-Man is watching!"><img src="https://raw.githubusercontent.com/chandum9astdominic-cmyk/chandum9astdominic-cmyk/main/assets/cat.svg?v=3" width="38" alt="🕷️ Spider-Man logo"/></a>
 
 # 👋 Hey, I'm Chandu
 
@@ -11,8 +11,8 @@
   <a href="mailto:chandu9a.stdominic@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-> 🐾 *Move your mouse around — the cat is watching.*
-> 
+> 🕷️ *Move your mouse around — Spider-Man is watching.*
+>
 > 💡 *Learning by building — from frontend fundamentals to full-stack applications.*
 
 </div>
@@ -155,7 +155,7 @@ Full-Stack Projects     ███████░░░░░░░░░░░
 
 <div align="center">
 
-### 🐱 Learn. Build. Break. Fix. Repeat. 🚀
+### 🕷️ Learn. Build. Break. Fix. Repeat. 🕸️
 
 ⭐ Thanks for visiting my profile!
 
