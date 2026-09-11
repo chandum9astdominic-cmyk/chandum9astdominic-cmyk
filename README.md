@@ -1,4 +1,4 @@
-div align="center">
+
 
 # 👋 Hey, I'm Chandu
 
@@ -41,8 +41,7 @@ I'm currently strengthening my foundations in **Java, JavaScript, Python, web de
 | ⚙️ **Backend** | Node.js, Express.js, FastAPI, REST APIs |
 | 🗄️ **Databases** | MySQL, PostgreSQL |
 | 🧩 **CS Fundamentals** | Data Structures, Algorithms, OOP, DBMS, Operating Systems |
-| 🔧 **Tools** | Git, GitHub, VS Code, Docker, Linux / CLI |
-| 🧪 **Testing** | Pytest, Vitest, Playwright |
+| 🔧 **Tools** | Git, GitHub, VS Code, Docker |
 | 📚 **Currently Learning** | Full-Stack Development, Backend Architecture, APIs, React.js |
 
 ---
