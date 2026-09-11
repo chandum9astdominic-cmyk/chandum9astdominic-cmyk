@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/chandum9astdominic-cmyk" title="🕷️ Spider-Man is watching!"><img src="https://raw.githubusercontent.com/chandum9astdominic-cmyk/chandum9astdominic-cmyk/main/assets/cat.svg?v=3" width="38" alt="🕷️ Spider-Man logo"/></a>
+<a href="https://github.com/chandum9astdominic-cmyk" title="🕷️ Red Spider logo"><img src="https://raw.githubusercontent.com/chandum9astdominic-cmyk/chandum9astdominic-cmyk/main/assets/spiderman.svg?v=1" width="52" alt="🕷️ Red spider logo"/></a>
 
 # 👋 Hey, I'm Chandu
 
@@ -11,7 +11,7 @@
   <a href="mailto:chandu9a.stdominic@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-> 🕷️ *Move your mouse around — Spider-Man is watching.*
+> 🕷️ *Move your mouse around — the spider is watching.*
 >
 > 💡 *Learning by building — from frontend fundamentals to full-stack applications.*
 
