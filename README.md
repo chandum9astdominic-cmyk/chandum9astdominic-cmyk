@@ -1,70 +1,53 @@
-# Hi, I'm Chandu 👋
+div align="center">
 
-### Computer Science & Engineering Student | Full-Stack Developer in Progress | Problem Solver
+# 👋 Hey, I'm Chandu
 
-I'm a Computer Science & Engineering student who enjoys turning ideas into working software. I'm currently strengthening my programming fundamentals and learning how modern web applications work from the frontend to the backend and database.
+### `CSE Student` • `Full-Stack Learner` • `Problem Solver`
+
+<p>
+  <a href="https://github.com/chandum9astdominic-cmyk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:chandum9a.stdominic@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+> 💡 *Learning by building — from frontend fundamentals to full-stack applications.*
+
+</div>
 
 ---
 
-## About Me
+## 🧠 About Me
+
+I'm **Chandu**, a Computer Science & Engineering student who enjoys learning by building real projects and solving programming problems.
+
+I'm currently strengthening my foundations in **Java, JavaScript, Python, web development, databases, and backend development**, while learning how complete applications work from the frontend all the way to the backend and database.
 
 - 🎓 Computer Science & Engineering student
-- 💻 Interested in full-stack development
-- 🧩 Practicing Data Structures & Algorithms with Java
-- 🌐 Learning JavaScript, React.js and Next.js
-- ⚙️ Exploring Node.js, Express.js and FastAPI
-- 🗄️ Working with MySQL and PostgreSQL
-- 🐳 Learning Docker and modern development workflows
-- 🚀 Learning by building practical projects
+- 💻 Interested in **Full-Stack Development**
+- 🧩 Practicing **Data Structures & Algorithms with Java**
+- 🌐 Learning **JavaScript, React.js and Next.js**
+- ⚙️ Exploring **Node.js, Express.js and FastAPI**
+- 🗄️ Working with **MySQL and PostgreSQL**
+- 🐳 Learning **Docker and modern development workflows**
+- 🚀 Building projects to turn concepts into practical skills
 
 ---
 
-## Tech Stack
+## ⚡ My Skillset
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-### Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logoColor=white)
-
-### Databases & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+| Category | Skills |
+|:---|:---|
+| 💻 **Languages** | Java, Python, JavaScript, HTML5, CSS3 |
+| 🌐 **Frontend** | HTML, CSS, JavaScript, React.js, Next.js |
+| ⚙️ **Backend** | Node.js, Express.js, FastAPI, REST APIs |
+| 🗄️ **Databases** | MySQL, PostgreSQL |
+| 🧩 **CS Fundamentals** | Data Structures, Algorithms, OOP, DBMS, Operating Systems |
+| 🔧 **Tools** | Git, GitHub, VS Code, Docker, Linux / CLI |
+| 🧪 **Testing** | Pytest, Vitest, Playwright |
+| 📚 **Currently Learning** | Full-Stack Development, Backend Architecture, APIs, React.js |
 
 ---
 
-## Currently Learning
-
-| Area | Focus |
-|---|---|
-| Full-Stack Development | Building complete web applications |
-| React.js | Components, state, props and frontend architecture |
-| Backend Development | APIs, servers and application architecture |
-| Databases | SQL, PostgreSQL and database design |
-| Data Structures & Algorithms | Problem solving with Java |
-| Docker | Containers and development workflows |
-
----
-
-## Projects
+## 🚀 Featured Projects
 
 ### 🏥 MediKiosk
 
@@ -72,73 +55,104 @@ I'm a Computer Science & Engineering student who enjoys turning ideas into worki
 
 `Next.js` `FastAPI` `PostgreSQL` `Docker`
 
-A full-stack application connecting a modern frontend with a FastAPI backend and PostgreSQL database.
+A full-stack healthcare application with a Next.js frontend, FastAPI backend, PostgreSQL database, Docker-based setup, and testing with Pytest, Vitest and Playwright.
 
-[View Repository →](https://github.com/chandum9astdominic-cmyk/medikiosk)
-
-### 🧩 DSA-JAVA
-
-A Java repository focused on practicing Data Structures, Algorithms and problem solving.
-
-`Java` `DSA` `Algorithms`
-
-[View Repository →](https://github.com/chandum9astdominic-cmyk/DSA-JAVA)
-
-### 🔐 Password Generator
-
-A browser-based project built while practicing JavaScript and frontend fundamentals.
-
-`HTML` `CSS` `JavaScript`
-
-[View Repository →](https://github.com/chandum9astdominic-cmyk/password_generator)
-
-### 🔳 QR Generator
-
-A lightweight web application for generating QR codes.
-
-`HTML` `CSS` `JavaScript`
-
-[View Repository →](https://github.com/chandum9astdominic-cmyk/Qr-Genarator)
-
-### 🎮 Game
-
-An interactive browser project created while practicing JavaScript.
-
-`HTML` `CSS` `JavaScript`
-
-[View Repository →](https://github.com/chandum9astdominic-cmyk/game)
+🔗 [View Repository](https://github.com/chandum9astdominic-cmyk/medikiosk)
 
 ---
 
-## GitHub Stats
+### 🧩 DSA-JAVA
+
+A Java-based collection for practicing **Data Structures & Algorithms** and improving problem-solving skills.
+
+`Java` `DSA` `Algorithms`
+
+🔗 [View Repository](https://github.com/chandum9astdominic-cmyk/DSA-JAVA)
+
+---
+
+### 🔐 Password Generator
+
+A simple frontend project created while practicing JavaScript and web-development fundamentals.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [View Repository](https://github.com/chandum9astdominic-cmyk/password_generator)
+
+---
+
+### 🔳 QR Generator
+
+A lightweight web project for generating QR codes while practicing frontend development.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [View Repository](https://github.com/chandum9astdominic-cmyk/Qr-Genarator)
+
+---
+
+### 🎮 Game
+
+An interactive browser project built while learning and practicing JavaScript.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [View Repository](https://github.com/chandum9astdominic-cmyk/game)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandum9astdominic-cmyk&show_icons=true&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandum9astdominic-cmyk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandum9astdominic-cmyk&layout=compact&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandum9astdominic-cmyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## Goals
+## 🔥 What I'm Working On
 
-- 🚀 Become a strong full-stack developer
+```text
+Java + DSA              ███████████████░░░
+JavaScript              █████████████░░░░░
+React / Frontend        ███████████░░░░░░░
+Backend Development     █████████░░░░░░░░░
+Databases               ████████░░░░░░░░░░
+Full-Stack Projects     ███████░░░░░░░░░░░
+```
+
+---
+
+## 🎯 Goals
+
+- 🚀 Become strong in Full-Stack Development
 - 🧩 Master Data Structures & Algorithms
-- ⚛️ Build solid React applications
-- ⚙️ Become confident with backend development and APIs
+- ⚛️ Build solid React.js applications
+- 🔗 Design and build reliable REST APIs
 - 🗄️ Improve SQL and database design
 - 🐳 Learn deployment and production workflows
-- 💼 Prepare for software engineering opportunities
+- 💼 Prepare for software engineering internships
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chandum9astdominic-cmyk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chandu9a.stdominic@gmail.com)
+<div align="center">
+
+<a href="https://github.com/chandum9astdominic-cmyk"><img src="https://img.shields.io/badge/GitHub-chandum9astdominic--cmyk-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="mailto:chandum9a.stdominic@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
 
 ---
 
-> **Learn. Build. Debug. Improve. Repeat.**
+<div align="center">
+
+### 💻 Learn. Build. Break. Fix. Repeat. 🚀
+
+⭐ Thanks for visiting my profile!
+
+</div>
