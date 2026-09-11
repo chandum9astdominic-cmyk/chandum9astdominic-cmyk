@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Red spider with black shade">
+<defs>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff3333"/><stop offset="0.55" stop-color="#e00000"/><stop offset="1" stop-color="#780000"/></linearGradient>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur in="SourceAlpha" stdDeviation="3" result="blur"/><feOffset dy="3" result="off"/><feFlood flood-color="#000" flood-opacity=".9"/><feComposite in2="off" operator="in"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g filter="url(#shadow)" fill="url(#red)" stroke="#050505" stroke-width="4" stroke-linejoin="round">
+  <ellipse cx="64" cy="64" rx="18" ry="27"/>
+  <circle cx="64" cy="43" r="13"/>
+  <path d="M51 47 L28 27 L36 49 L15 43 L42 59 L20 72 L46 68"/>
+  <path d="M77 47 L100 27 L92 49 L113 43 L86 59 L108 72 L82 68"/>
+  <path d="M49 64 L24 63 L8 76 L39 76 L17 94 L47 84"/>
+  <path d="M79 64 L104 63 L120 76 L89 76 L111 94 L81 84"/>
+  <path d="M51 77 L34 101 L48 91 L45 116 L62 91"/>
+  <path d="M77 77 L94 101 L80 91 L83 116 L66 91"/>
+</g>
+<path d="M64 30v68 M42 42l44 44 M86 42L42 86 M32 58l64 0 M28 75l72 0" fill="none" stroke="#050505" stroke-width="2" opacity=".65"/>
+</svg>
