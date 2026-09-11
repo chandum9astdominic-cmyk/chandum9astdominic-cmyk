@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/chandum9astdominic-cmyk" title="🐱 Meow! Welcome to Chandu's GitHub!"><img src="https://raw.githubusercontent.com/chandum9astdominic-cmyk/chandum9astdominic-cmyk/main/assets/cat.svg" width="42" alt="Cat logo"/></a>
+<a href="https://github.com/chandum9astdominic-cmyk" title="🐱 Meow! Welcome to Chandu's GitHub!"><img src="https://raw.githubusercontent.com/chandum9astdominic-cmyk/chandum9astdominic-cmyk/main/assets/cat.svg?v=2" width="38" alt="🐱 Cat"/></a>
 
 # 👋 Hey, I'm Chandu
 
@@ -8,9 +8,11 @@
 
 <p>
   <a href="https://github.com/chandum9astdominic-cmyk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:chandum9a.stdominic@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:chandu9a.stdominic@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+> 🐾 *Move your mouse around — the cat is watching.*
+> 
 > 💡 *Learning by building — from frontend fundamentals to full-stack applications.*
 
 </div>
@@ -145,7 +147,7 @@ Full-Stack Projects     ███████░░░░░░░░░░░
 <div align="center">
 
 <a href="https://github.com/chandum9astdominic-cmyk"><img src="https://img.shields.io/badge/GitHub-chandum9astdominic--cmyk-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="mailto:chandum9a.stdominic@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:chandu9a.stdominic@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -153,7 +155,7 @@ Full-Stack Projects     ███████░░░░░░░░░░░
 
 <div align="center">
 
-### 💻 Learn. Build. Break. Fix. Repeat. 🚀
+### 🐱 Learn. Build. Break. Fix. Repeat. 🚀
 
 ⭐ Thanks for visiting my profile!
 
