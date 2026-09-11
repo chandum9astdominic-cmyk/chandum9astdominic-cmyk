@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chandum9astdominic-cmyk/chandum9astdominic-cmyk/main/assets/spiderman.svg?v=2" width="90" alt="Red spider logo"/>
+<img src="https://dribbble.com/shots/17209519-Andrew-Garfield-Spider-Man-Logo" width="90" alt="Red spider logo"/>
 
 # 🕷️ CHANDU
 
