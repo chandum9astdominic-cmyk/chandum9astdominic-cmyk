@@ -1,78 +1,70 @@
-<div align="center">
+# Hi, I'm Chandu 👋
 
-<img src="https://dribbble.com/shots/17209519-Andrew-Garfield-Spider-Man-Logo" width="90" alt="Red spider logo"/>
+### Computer Science & Engineering Student | Full-Stack Developer in Progress | Problem Solver
 
-# 🕷️ CHANDU
+I'm a Computer Science & Engineering student who enjoys turning ideas into working software. I'm currently strengthening my programming fundamentals and learning how modern web applications work from the frontend to the backend and database.
 
-### `CSE Student` • `Full-Stack Developer in Progress` • `Problem Solver`
+---
 
-**With great code comes great responsibility.** 🕸️
+## About Me
 
-<p>
-  <a href="https://github.com/chandum9astdominic-cmyk"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:chandu9a.stdominic@gmail.com"><img src="https://img.shields.io/badge/Email-E00000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+- 🎓 Computer Science & Engineering student
+- 💻 Interested in full-stack development
+- 🧩 Practicing Data Structures & Algorithms with Java
+- 🌐 Learning JavaScript, React.js and Next.js
+- ⚙️ Exploring Node.js, Express.js and FastAPI
+- 🗄️ Working with MySQL and PostgreSQL
+- 🐳 Learning Docker and modern development workflows
+- 🚀 Learning by building practical projects
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E00000,50:8B0000,100:050505&height=120&section=header" width="100%" alt="red black wave"/>
+---
 
-</div>
+## Tech Stack
 
-## 🕸️ ABOUT ME
+### Languages
 
-> **A developer in training, building one project at a time.**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-I'm a **Computer Science & Engineering student** who enjoys turning ideas into working software. I'm currently focused on strengthening my programming fundamentals and learning how modern full-stack applications are built from the browser to the backend and database.
+### Frontend
 
-```text
-🕷️ Learn       → Understand the fundamentals
-🕸️ Build       → Turn ideas into projects
-⚡ Experiment   → Try new technologies
-🔧 Debug       → Break it, understand it, fix it
-🚀 Repeat      → Keep getting better
-```
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-## 🧠 TECH STACK
+### Backend & APIs
 
-### 💻 Languages
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=openjdk&logoColor=E00000)
-![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=E00000)
-![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=E00000)
-![HTML5](https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=E00000)
-![CSS3](https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=E00000)
+### Databases & Tools
 
-### 🌐 Frontend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-![React](https://img.shields.io/badge/React.js-050505?style=for-the-badge&logo=react&logoColor=E00000)
-![Next.js](https://img.shields.io/badge/Next.js-050505?style=for-the-badge&logo=next.js&logoColor=white)
+---
 
-### ⚙️ Backend & APIs
+## Currently Learning
 
-![Node.js](https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=node.js&logoColor=E00000)
-![Express](https://img.shields.io/badge/Express.js-050505?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-050505?style=for-the-badge&logo=fastapi&logoColor=E00000)
-![REST API](https://img.shields.io/badge/REST_API-050505?style=for-the-badge&logoColor=E00000)
+| Area | Focus |
+|---|---|
+| Full-Stack Development | Building complete web applications |
+| React.js | Components, state, props and frontend architecture |
+| Backend Development | APIs, servers and application architecture |
+| Databases | SQL, PostgreSQL and database design |
+| Data Structures & Algorithms | Problem solving with Java |
+| Docker | Containers and development workflows |
 
-### 🗄️ Databases & Tools
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=E00000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql&logoColor=E00000)
-![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=E00000)
-![Docker](https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=E00000)
-![Linux](https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=white)
-
-## 🕷️ WHAT I'M LEARNING
-
-| 🕸️ Area | ⚡ Focus |
-|:---|:---|
-| **Full-Stack Development** | Building complete web applications |
-| **React.js** | Components, state, props & frontend architecture |
-| **Backend Development** | APIs, servers & application architecture |
-| **Databases** | SQL, PostgreSQL & database design |
-| **DSA** | Data Structures & Algorithms with Java |
-| **Docker** | Containers & development workflows |
-
-## 🏙️ PROJECTS
+## Projects
 
 ### 🏥 MediKiosk
 
@@ -82,19 +74,15 @@ I'm a **Computer Science & Engineering student** who enjoys turning ideas into w
 
 A full-stack application connecting a modern frontend with a FastAPI backend and PostgreSQL database.
 
-**[🕸️ View Project →](https://github.com/chandum9astdominic-cmyk/medikiosk)**
-
----
+[View Repository →](https://github.com/chandum9astdominic-cmyk/medikiosk)
 
 ### 🧩 DSA-JAVA
 
-A Java repository focused on practicing **Data Structures, Algorithms and problem solving**.
+A Java repository focused on practicing Data Structures, Algorithms and problem solving.
 
 `Java` `DSA` `Algorithms`
 
-**[🕷️ View Project →](https://github.com/chandum9astdominic-cmyk/DSA-JAVA)**
-
----
+[View Repository →](https://github.com/chandum9astdominic-cmyk/DSA-JAVA)
 
 ### 🔐 Password Generator
 
@@ -102,9 +90,7 @@ A browser-based project built while practicing JavaScript and frontend fundament
 
 `HTML` `CSS` `JavaScript`
 
-**[⚡ View Project →](https://github.com/chandum9astdominic-cmyk/password_generator)**
-
----
+[View Repository →](https://github.com/chandum9astdominic-cmyk/password_generator)
 
 ### 🔳 QR Generator
 
@@ -112,9 +98,7 @@ A lightweight web application for generating QR codes.
 
 `HTML` `CSS` `JavaScript`
 
-**[🕸️ View Project →](https://github.com/chandum9astdominic-cmyk/Qr-Genarator)**
-
----
+[View Repository →](https://github.com/chandum9astdominic-cmyk/Qr-Genarator)
 
 ### 🎮 Game
 
@@ -122,50 +106,39 @@ An interactive browser project created while practicing JavaScript.
 
 `HTML` `CSS` `JavaScript`
 
-**[🕷️ View Project →](https://github.com/chandum9astdominic-cmyk/game)**
+[View Repository →](https://github.com/chandum9astdominic-cmyk/game)
 
-## 📊 GITHUB ACTIVITY
+---
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandum9astdominic-cmyk&show_icons=true&hide_border=true&bg_color=050505&title_color=E00000&icon_color=E00000&text_color=FFFFFF" alt="GitHub Stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandum9astdominic-cmyk&layout=compact&hide_border=true&bg_color=050505&title_color=E00000&text_color=FFFFFF" alt="Top Languages"/>
-
-</div>
-
-## 🕸️ MY WEB-SLINGER PROGRESS
-
-```text
-Java + DSA            ███████████████░░░  75%
-JavaScript            █████████████░░░░░  65%
-React / Frontend      ████████████░░░░░░  60%
-Backend Development   ██████████░░░░░░░░  50%
-Databases             █████████░░░░░░░░░  45%
-Full-Stack            ████████░░░░░░░░░░  40%
-```
-
-## 🎯 MISSION
-
-- 🕷️ Become a strong **Full-Stack Developer**
-- 🧩 Master **Data Structures & Algorithms**
-- ⚛️ Build better **React applications**
-- ⚙️ Become confident with **backend development & APIs**
-- 🗄️ Improve **SQL and database design**
-- 🐳 Learn **deployment and production workflows**
-- 💼 Prepare for **software engineering opportunities**
-
-## 📫 CONNECT
+## GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/chandum9astdominic-cmyk"><img src="https://img.shields.io/badge/GitHub-FOLLOW-050505?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:chandu9a.stdominic@gmail.com"><img src="https://img.shields.io/badge/Email-SAY_HELLO-E00000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandum9astdominic-cmyk&show_icons=true&hide_border=true" alt="GitHub Stats" />
 
-<br><br>
-
-### 🕷️ *Stay curious. Keep building. Never stop climbing.* 🕸️
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandum9astdominic-cmyk&layout=compact&hide_border=true" alt="Top Languages" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:E00000&height=100&section=footer" width="100%" alt="red black footer"/>
+---
+
+## Goals
+
+- 🚀 Become a strong full-stack developer
+- 🧩 Master Data Structures & Algorithms
+- ⚛️ Build solid React applications
+- ⚙️ Become confident with backend development and APIs
+- 🗄️ Improve SQL and database design
+- 🐳 Learn deployment and production workflows
+- 💼 Prepare for software engineering opportunities
+
+---
+
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chandum9astdominic-cmyk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chandu9a.stdominic@gmail.com)
+
+---
+
+> **Learn. Build. Debug. Improve. Repeat.**
